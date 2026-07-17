@@ -85,18 +85,19 @@ There's a separate **auto server-hop** build meant for your executor's **autoexe
 ## 💡 Tips
 
 - **Fastest WP in the game — just scrap parts.** Roughly **2,000 parts ≈ 2,000,000 WP**. Open **Scrap Parts** (Common parts go first, rare planes are kept for last) and let it run — it even tells you exactly how much WP you earned.
-- **Fresh servers are the most productive.** A server gives its best haul in the first **~7–10 minutes** — around **70–140 parts** — before the crates thin out. Once your crate rate drops, move to a fresh server (or rejoin) to keep the numbers high.
-- **Pick a realistic call-sign.** For a cleaner, more authentic look, use a real aviation format (a prefix like `N-`, `G-`, or `P-` followed by letters/digits) instead of something random.
+- **Fresh and low-player servers are the most productive.** A server gives its best haul in the first **~7–10 minutes** — around **70–140 parts** — before the crates thin out. Once your crate rate drops, move to a fresh server (or rejoin) to keep the numbers high.
+- **Pick a realistic call-sign.** For a cleaner, more authentic look, use a real aviation format (a prefix like `N-`, `G-`, or `P-` followed by letters/digits) instead of something random. Obvious callsign will get you caught very fast.
+- **Session Duration.** Do not remain in a single server for more than 40 minutes. Extended sessions increase the likelihood of being recorded (clipped), make it easier for players to notice you teleporting to crates, and ultimately give them time to trace your username and alert staff.
+- **TRADING** When initiating a trade, add common parts to the window first, then gradually introduce the requested rare parts. Make sure the initial trade offer looks unremarkable or low-value at first glance — this helps prevent automated systems from flagging your transaction logs.
+- **DISCORD ACTIVITY** Refrain from conducting high-volume selling or trading within their official Aeronautica Discord Server. Excessive activity attracts unwanted attention and often prompts the moderation team to review your account.
 
 ---
 
 ## 🛡️ Staying Safe
 
-Automating any Roblox experience is against the game's and Roblox's Terms of Service and **can result in a ban** — there is no truly "undetectable" way around that, and this project won't pretend otherwise. A few sensible habits:
-
 - **Decide which account you're willing to risk.** Many players just farm on the **main account they actually play** (simplest — no moving parts between accounts); others prefer a dedicated alt they don't mind losing. Either way, go in knowing the risk.
 - **Don't leave it running unattended for hours on end.** Long, non-stop sessions are the easiest way to end up with a problem.
-- **Keep your call-sign realistic** (see Tips) rather than something that screams "bot."
+- **Keep your call-sign realistic** (see Tips) rather than something that screams "EXP"
 
 > ⚠️ Use it at your own risk. You are responsible for how you use this script.
 
@@ -104,7 +105,7 @@ Automating any Roblox experience is against the game's and Roblox's Terms of Ser
 
 ## 🖥️ Supported Executors
 
-Works with any executor that supports `loadstring` + `HttpGet` and the standard file API, including **Synapse X, Script-Ware, Wave, Delta, Codex, Fluxus, KRNL, Solara, Xeno, Swift, AWP**, and most others.
+Works with any executor that supports `loadstring` + `HttpGet` and the standard file API, including **Wave, Volt, Velocity, Madium, Potassium, Sirhurt, Real, Cosmic, Delta, Codex, Solara, Xeno, Swift**, and most(99% executors) others.
 
 ---
 
@@ -112,7 +113,7 @@ Works with any executor that supports `loadstring` + `HttpGet` and the standard 
 
 **Is it free?** Yes — 100% free, no key system, no paywall.
 
-**Is it safe?** It's a client-side automation script. As with any Roblox exploit, use an **alt account** — automating any game carries a ban risk. You use it at your own risk.
+**Is it safe?** It's a client-side automation script. You're safe if you're following all the tips.
 
 **It didn't open a menu / failed to load?** Re-run it — the loader auto-retries on network errors (rate limits, slow connections). Make sure your executor supports `HttpGet`.
 
@@ -124,7 +125,7 @@ Works with any executor that supports `loadstring` + `HttpGet` and the standard 
 
 ## ⚠️ Disclaimer
 
-This project is provided **for educational purposes** only. It is **not affiliated with, endorsed by, or connected to Aeronautica or Roblox Corporation** in any way. Automating a Roblox experience may violate the game's or Roblox's Terms of Service and can result in account moderation. **Use at your own risk**, preferably on an alternate account.
+This project is provided **for educational purposes** only. It is **not affiliated with, endorsed by, or connected to Aeronautica or Roblox Corporation** in any way.
 
 ---
 
