@@ -121,7 +121,7 @@ Works with any executor that supports `loadstring` + `HttpGet` and the standard 
 
 **Does it work on mobile executors?** If the executor supports `loadstring` and `HttpGet`, yes.
 
-**Which UI Library did you use?** (UI LIBRARY)[https://github.com/aeronauticafan4242/aeronauticauilib]
+**Which UI Library did you use?** https://github.com/aeronauticafan4242/aeronauticauilib
 
 **Which games?** Made specifically for **Aeronautica**. Running it elsewhere will just tell you the features won't work there.
 
