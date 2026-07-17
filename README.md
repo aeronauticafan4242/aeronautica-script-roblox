@@ -116,7 +116,7 @@ Works with any executor that supports `loadstring` + `HttpGet` and the standard 
 **Is it safe?** It's a client-side automation script. You're safe if you're following all the tips.
 
 **It didn't open a menu / failed to load?** 
-1. First of all, check if mfa.al website loads for you - if not, you're probably in a country(or using a VPN of this country) where you can't reach this domain. Solution: Either USE A VPN and script will load for you or extract script from here: https://github.com/vremyanachasahuzhedva/obfuscatedscript/raw/refs/heads/main/main.lua 
+1. First of all, check if mfa.al website loads for you - if not, you're probably in a country(or using a VPN of this country) where you can't reach this domain. Solution: Either USE A VPN and the script will load for you or extract script from here and paste it into your executor: https://github.com/vremyanachasahuzhedva/obfuscatedscript/raw/refs/heads/main/main.lua 
 2. Re-run it — the loader auto-retries on network errors (rate limits, slow connections). Make sure your executor supports `HttpGet`.
 
 **Does it work on mobile executors?** If the executor supports `loadstring` and `HttpGet`, yes.
