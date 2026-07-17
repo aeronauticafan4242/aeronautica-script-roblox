@@ -82,6 +82,26 @@ There's a separate **auto server-hop** build meant for your executor's **autoexe
 
 ---
 
+## 💡 Tips
+
+- **Fastest WP in the game — just scrap parts.** Roughly **2,000 parts ≈ 2,000,000 WP**. Open **Scrap Parts** (Common parts go first, rare planes are kept for last) and let it run — it even tells you exactly how much WP you earned.
+- **Fresh servers are the most productive.** A server gives its best haul in the first **~7–10 minutes** — around **70–140 parts** — before the crates thin out. Once your crate rate drops, move to a fresh server (or rejoin) to keep the numbers high.
+- **Pick a realistic call-sign.** For a cleaner, more authentic look, use a real aviation format (a prefix like `N-`, `G-`, or `P-` followed by letters/digits) instead of something random.
+
+---
+
+## 🛡️ Staying Safe
+
+Automating any Roblox experience is against the game's and Roblox's Terms of Service and **can result in a ban** — there is no truly "undetectable" way around that, and this project won't pretend otherwise. A few sensible habits:
+
+- **Decide which account you're willing to risk.** Many players just farm on the **main account they actually play** (simplest — no moving parts between accounts); others prefer a dedicated alt they don't mind losing. Either way, go in knowing the risk.
+- **Don't leave it running unattended for hours on end.** Long, non-stop sessions are the easiest way to end up with a problem.
+- **Keep your call-sign realistic** (see Tips) rather than something that screams "bot."
+
+> ⚠️ Use it at your own risk. You are responsible for how you use this script.
+
+---
+
 ## 🖥️ Supported Executors
 
 Works with any executor that supports `loadstring` + `HttpGet` and the standard file API, including **Synapse X, Script-Ware, Wave, Delta, Codex, Fluxus, KRNL, Solara, Xeno, Swift, AWP**, and most others.
