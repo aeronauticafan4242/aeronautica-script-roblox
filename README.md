@@ -40,9 +40,9 @@ end
 
 > 💡 Join **Aeronautica**, run the script, and open the **Auto Farm** tab. That's it.
 
-### 🔁 Server-Hop Edition (autoexec)
+### 🔁 Server-Hop Edition (autoexec) - W.I.P.
 
-There's a separate **auto server-hop** build meant for your executor's **autoexec** folder: it runs on every join, waits for the game to load, auto-starts farming, and jumps to a fresh server the moment crates dry up — fully hands-free 24/7 farming.
+There's a separate **auto server-hop** build meant for your executor's **autoexec** folder: it runs on every join, waits for the game to load, auto-starts farming, and jumps to a fresh server the moment crates dry up — fully hands-free 24/7 farming. - WORK IS IN PROGRESS. CURRENTLY UNAVAILABLE.
 
 ---
 
@@ -99,18 +99,6 @@ Works with any executor that supports `loadstring` + `HttpGet` and the standard 
 **Does it work on mobile executors?** If the executor supports `loadstring` and `HttpGet`, yes.
 
 **Which games?** Made specifically for **Aeronautica**. Running it elsewhere will just tell you the features won't work there.
-
----
-
-## 🏷️ Repository Topics (add these for discoverability)
-
-GitHub indexes **repository topics** heavily. On your repo page → **About** (⚙️ gear) → **Topics**, paste these (up to 20):
-
-```
-roblox, roblox-script, roblox-scripts, roblox-exploit, roblox-hack, roblox-cheat,
-aeronautica, aeronautica-script, aeronautica-autofarm, autofarm, auto-farm,
-crate-farm, serverhop, esp, script-hub, luau, lua, exploit, roblox-exploiting, free-scripts
-```
 
 ---
 
